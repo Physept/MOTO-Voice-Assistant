@@ -1,0 +1,16 @@
+SpeechRecognition==3.8.1
+pyttsx3==2.90
+requests
+psutil
+
+
+
+
+
+
+
+
+
+
+
+
